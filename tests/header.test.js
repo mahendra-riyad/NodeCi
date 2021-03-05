@@ -1,7 +1,6 @@
 test("check sum", () => {
   expect("mahi").toEqual("mahi");
 });
-
 // const puppeteer = require("puppeteer");
 
 // let browser, page;
